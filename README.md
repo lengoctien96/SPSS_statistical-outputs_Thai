@@ -5,3 +5,8 @@
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+## Structural Equation Model (SEM)
+
+![SEM Diagram](images/sem_model.jpeg)
+
+*This diagram illustrates the relationships among latent variables (TE, KA, KT, JP) and their observed indicators, along with model fit indices.*
