@@ -10,7 +10,7 @@ The focus is on **Structural Equation Modeling (SEM)**, showcasing latent constr
 The diagram below illustrates the SEM with four latent variables (**TE, KA, KT, JP**) and their observed indicators.  
 It also includes standardized path coefficients and model fit indices.
 
-![SEM Diagram](attachments/qAEschm9MUcGDMwZu9czz.png)
+![SEM Diagram](Models/CB-SEM model.jpg)
 
 ---
 
